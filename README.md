@@ -7,7 +7,7 @@ Package license: GPL-2
 
 Feedstock license: BSD 3-Clause
 
-Summary: Package for drawing calibrated scales with tick marks on (non-orthogonal)  variable vectors in scatterplots and biplots. 
+Summary: Package for drawing calibrated scales with tick marks on (non-orthogonal) variable vectors in scatterplots and biplots. Also provides some functions for multivariate analysis such principal coordinate analysis.
 
 
 
@@ -116,9 +116,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@bgruening](https://github.com/bgruening/)
 * [@conda-forge/r](https://github.com/conda-forge/r/)
-* [@daler](https://github.com/daler/)
-* [@dpryan79](https://github.com/dpryan79/)
-* [@johanneskoester](https://github.com/johanneskoester/)
 
