@@ -1,11 +1,11 @@
-About r-calibrate
-=================
+About r-calibrate-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-calibrate-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=calibrate
 
 Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-calibrate-feedstock/blob/main/LICENSE.txt)
 
 Summary: Package for drawing calibrated scales with tick marks on (non-orthogonal) variable vectors in scatterplots and biplots. Also provides some functions for multivariate analysis such principal coordinate analysis.
 
